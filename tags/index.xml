@@ -1,60 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on roidpages.netlify</title>
+    <title>Tags on RoidPages</title>
     <link>https://roidpages.netlify.com/tags/</link>
-    <description>Recent content in Tags on roidpages.netlify</description>
+    <description>Recent content in Tags on RoidPages</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <managingEditor>youremail@domain.com</managingEditor>
-    <webMaster>youremail@domain.com</webMaster>
-    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://roidpages.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Anabolic Pills</title>
+      <title>PCT cycle</title>
+      <link>https://roidpages.netlify.com/tags/pct-cycle/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://roidpages.netlify.com/tags/pct-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anabolic pills</title>
       <link>https://roidpages.netlify.com/tags/anabolic-pills/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com</author>
+      
       <guid>https://roidpages.netlify.com/tags/anabolic-pills/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Anabolic Shoots</title>
+      <title>anabolic shoots</title>
       <link>https://roidpages.netlify.com/tags/anabolic-shoots/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com</author>
+      
       <guid>https://roidpages.netlify.com/tags/anabolic-shoots/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cycle Rules</title>
+      <title>cycle rules</title>
       <link>https://roidpages.netlify.com/tags/cycle-rules/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com</author>
+      
       <guid>https://roidpages.netlify.com/tags/cycle-rules/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dbol Pills</title>
+      <title>dbol pills</title>
       <link>https://roidpages.netlify.com/tags/dbol-pills/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com</author>
+      
       <guid>https://roidpages.netlify.com/tags/dbol-pills/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pct Cycle</title>
-      <link>https://roidpages.netlify.com/tags/pct-cycle/</link>
-      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com</author>
-      <guid>https://roidpages.netlify.com/tags/pct-cycle/</guid>
+      <title>guide</title>
+      <link>https://roidpages.netlify.com/tags/guide/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://roidpages.netlify.com/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methandienone</title>
+      <link>https://roidpages.netlify.com/tags/methandienone/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://roidpages.netlify.com/tags/methandienone/</guid>
       <description></description>
     </item>
     
